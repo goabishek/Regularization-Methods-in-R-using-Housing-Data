@@ -1,5 +1,4 @@
 #Name: Abishek Gisoji Ogadram
-#Chewy Assignment
 setwd("~/Documents/R/BA with R")
 
 library(tidyverse) 
